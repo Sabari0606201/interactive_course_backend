@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Sabari0606201/interactivecourse.git
+[submodule "student"]
+	path = student
+	url = https://github.com/Sabari0606201/interactivecourse.git
